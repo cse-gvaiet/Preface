@@ -1,5 +1,5 @@
 We,
-	Students of Final Year 2018-19, beloging to Department of Computer Engineering have created this repository to enhance research and 	development projects in our institution.Members of this repository are expected to develop innovative projects in field of Computer Science.
+	Students of Final Year 2018-19, beloging to Department of Computer Engineering have created this repository to enhance research and development projects in our institution.Members of this repository are expected to develop innovative projects in field of Computer Science.
 
 	Members are requested to avoid plagiarism, creating similar projects, creating redundant repositories or any other nuissance activities.
 
