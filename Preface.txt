@@ -6,6 +6,8 @@ We,
 	Also creation of multiple accounts is discouraged, as the aging of this account with graduation in it's quality will only increase it's value.
 	
 	All project licenses are advised to be MIT License.
+	
+	Started in the term of and supported by Head Of Department - Prof. Amit Chougule
 
 Thank You
 
